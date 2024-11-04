@@ -1,0 +1,585 @@
+.footinfo {
+    width: 426px;
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 120%;
+    font-weight: 500;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.name {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.instagram {
+    width: 98.2px;
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 120%;
+    font-weight: 500;
+    display: inline-block;
+    height: 20px;
+    flex-shrink: 0;
+}
+.email {
+    width: 69.4px;
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 120%;
+    font-weight: 500;
+    display: inline-block;
+    height: 20px;
+    flex-shrink: 0;
+}
+.sociallinks {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.footer {
+    position: absolute;
+    top: 2563px;
+    left: 0px;
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    box-sizing: border-box;
+    gap: 620px;
+}
+.client-project {
+    width: 326.2px;
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 121.5%;
+    font-weight: 500;
+    display: inline-block;
+    height: 19px;
+    flex-shrink: 0;
+}
+.lorem-ipsum-dolor {
+    width: 356px;
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 121.5%;
+    display: inline-block;
+}
+.link {
+    width: 326.2px;
+    position: relative;
+    text-decoration: underline;
+    letter-spacing: -0.03em;
+    line-height: 121.5%;
+    font-weight: 500;
+    color: #606060;
+    display: inline-block;
+    height: 20px;
+    flex-shrink: 0;
+}
+.client-project-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 40px;
+}
+.img-icon {
+    width: 640px;
+    position: relative;
+    height: 364.7px;
+    object-fit: cover;
+}
+.description {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 124px;
+}
+.project-01,
+.project-02,
+.project-03 {
+    width: 1120px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    cursor: not-allowed;
+}
+.seperator {
+    width: 1116.6px;
+    position: relative;
+    border-top: 1.5px solid #181717;
+    box-sizing: border-box;
+    height: 1.5px;
+    
+}
+.body {
+    position: absolute;
+    top: 757px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 160px;
+    gap: 114px;
+    font-size: 18px;
+    font-family: Inter;
+}
+.hi-im-pete {
+    margin: 0;
+}
+.hi-im-pete-container {
+    width: 360px;
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 97.2%;
+    font-weight: 500;
+    display: inline-block;
+    height: 244px;
+    flex-shrink: 0;
+}
+.currently-pursuing-a {
+    margin: 0;
+    font-size: 24px;
+}
+.product-designer-and-container1 {
+    width: 100%;
+}
+.product-designer-and-container {
+    width: 580px;
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 117%;
+    color: #606060;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    font-size: 32px;
+}
+.hi-im-pete-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 116px;
+}
+.icon {
+    width: 23px;
+    position: relative;
+    height: 26px;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+.frame-parent {
+    position: absolute;
+    top: 252px;
+    left: 0px;
+    width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0px 160px;
+    box-sizing: border-box;
+    gap: 99px;
+    font-size: 60px;
+}
+.pw {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 120%;
+    font-weight: 500;
+}
+.work1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    letter-spacing: -0.03em;
+    line-height: 120%;
+    font-weight: 500;
+}
+.work {
+    width: 49.6px;
+    position: relative;
+    height: 20px;
+}
+.about {
+    width: 58.5px;
+    position: relative;
+    height: 20px;
+}
+.misc {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 120%;
+    font-weight: 500;
+    color: #000;
+}
+.contact {
+    width: 77.4px;
+    position: relative;
+    height: 20px;
+}
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+    font-size: 21px;
+    color: #181717;
+}
+.nav {
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0px;
+    box-sizing: border-box;
+    gap: 811px;
+}
+.navigation-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.top {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 43px;
+    color: #000;
+}
+.portfolio-home-page {
+    width: 100%;
+    position: relative;
+    background-color: #f3f3f3;
+    min-height: 100vh;
+    overflow-x: hidden;
+    text-align: left;
+    font-size: 21px;
+    color: #181717;
+    font-family: 'DM Sans';
+}
+
+/* about */
+
+
+/* General styles */
+body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #f3f3f3;
+    color: #181717;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 160px;
+    box-sizing: border-box;
+}
+
+/* Navigation */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.navbar a.logo:hover {
+    color: #219ebc !important;
+    transition: ease .3s !important;
+    cursor: pointer !important;
+}
+
+/* Additional override for WebKit browsers */
+
+.logo {
+    font-size: 43px;
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    text-decoration: none !important;
+    color: #181717 !important;
+}
+
+
+.logo:hover {
+    color: #219ebc;
+    transition: ease .3s;
+    cursor: pointer;
+
+}
+
+a:-webkit-any-link {
+    color: #181717 !important;  
+    text-decoration: none !important;
+}
+
+a:-webkit-any-link:hover {
+    color: #219ebc !important;
+    transition: ease .3s !important;
+    cursor: pointer !important;
+}
+
+.nav-links {
+    display: flex;
+    gap: 32px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav-links a {
+    font-size: 21px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #181717;
+    letter-spacing: -0.03em;
+}
+
+.nav-links a.active {
+    color: #219ebc;
+}
+
+/* About page specific styles */
+.about-content {
+    padding: 100px 0;
+}
+
+.about-intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 116px;
+    margin-bottom: 114px;
+}
+
+.about-intro h1 {
+    font-size: 60px;
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    line-height: 97.2%;
+    margin: 0;
+    width: fit-content;
+}
+
+.about-text {
+    width: 1000px;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    line-height: 117%;
+    color: #606060;
+}
+
+.about-image {
+    max-width: 25%;
+    height: auto;
+    margin-top: 15px;
+    
+}
+
+.separator {
+    width: 100%;
+    border: none;
+    border-top: 1.5px solid #181717;
+    margin: 114px 0;
+}
+
+.contact-section {
+    text-align: center;
+}
+
+.contact-section h2 {
+    font-size: 60px;
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    margin-bottom: 20px;
+}
+
+.icon {
+    width: 23px;
+    height: 26px;
+    margin-bottom: 20px;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.email-link, .resume-link {
+    font-size: 21px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #181717;
+}
+
+/* Footer */
+footer {
+    padding: 50px 0;
+    margin-top: auto;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-links {
+    display: flex;
+    gap: 32px;
+}
+
+.social-links a {
+    font-size: 21px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #181717;
+}
+
+.name {
+    color:#219ebc;
+}
+
+
+@media screen and (max-width: 768px) {
+    .container {
+        padding: 0 20px;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    nav a {
+        margin: 5px 0;
+    }
+
+    /* Navigation */
+    .navbar {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+
+    /* Home page */
+    .frame-parent {
+        padding: 0 20px;
+    }
+
+    .hi-im-pete-parent {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 30px;
+        margin-top: 125px;
+    }
+
+    .product-designer-and-container {
+        font-size: 24px;
+    }
+
+    .body {
+        padding: 0 20px;
+    }
+
+    .description {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .img-icon {
+        width: 100%;
+        height: auto;
+    }
+
+
+    .project-01,
+    .project-02,
+    .project-03 {
+        width: 100%;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .project-01 {
+        margin-top: 125px;
+    }
+
+    .project-01 .description,
+    .project-02 .description {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .client-project-parent {
+        width: 100%;
+    }
+
+    .lorem-ipsum-dolor {
+        width: 100%;
+    }
+
+    /* About page */
+    .about-intro {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .about-text {
+        width: 100%;
+    }
+
+    .about-image {
+        max-width: 100%;
+        margin-top: 0;
+    }
+
+    /* Footer */
+    footer {
+        margin: 0;
+        padding: 30px 20px;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+
+    .social-links {
+        justify-content: center;
+    }
+}
